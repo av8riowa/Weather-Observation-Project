@@ -1,0 +1,2 @@
+git remote add origin <https://github.com/av8riowa/Weather-Observation-Project>
+git push -u origin master
