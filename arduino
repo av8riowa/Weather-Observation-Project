@@ -1,0 +1,6 @@
+aviation_weather_project/
+│
+├── aviation_weather.py
+├── README.md
+├── requirements.txt (optional)
+└── .gitignore (optional)
