@@ -1,0 +1,2 @@
+mkdir aviation_weather_project
+cd aviation_weather_project
